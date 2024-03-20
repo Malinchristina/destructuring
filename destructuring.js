@@ -50,4 +50,4 @@ let favouriteFoods = {
 let { brian, anna, ...rest } = favouriteFoods;
 console.log(brian);
 console.log(anna);
-console.log(rest)
+console.log(rest);
